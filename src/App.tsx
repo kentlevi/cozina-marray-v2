@@ -39,7 +39,7 @@ const Header = () => {
 const Footer = () => {
   return (
     <footer className="border-t border-border-main mt-auto">
-      <div className="bg-background py-16 px-12 grid grid-cols-1 md:grid-cols-4 gap-16 max-w-7xl mx-auto">
+      <div className="py-16 px-12 grid grid-cols-1 md:grid-cols-4 gap-16 max-w-7xl mx-auto">
         <div className="md:col-span-2 space-y-6">
           <h3 className="font-serif text-2xl text-gold font-light tracking-[0.2em] uppercase">Cozina Marray</h3>
           <p className="text-[#999] text-sm max-w-sm leading-relaxed tracking-wide">
